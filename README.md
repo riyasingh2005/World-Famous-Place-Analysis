@@ -1,10 +1,10 @@
 # 🌍 World Famous Places – Exploratory Data Analysis
-📌 Project Overview
+### 📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on a dataset of world-famous tourist destinations to understand global tourism patterns.
 The analysis explores how factors such as location, attraction type, entry fee, and UNESCO status influence tourist visits and popularity.
 
-🎯 Objectives
+###  🎯 Objectives
 
 - Analyze global tourism trends across countries and regions
 
@@ -16,7 +16,7 @@ The analysis explores how factors such as location, attraction type, entry fee, 
 
 - Extract meaningful insights from tourism data
 
-📊 Dataset Information
+###  📊 Dataset Information
 
 Total records: 30 famous tourist places
 
@@ -27,7 +27,7 @@ Data quality: No missing values
 Dataset source: https://www.kaggle.com/datasets/shaistashahid/world-famous-places
  
 
-🔍 Key Questions Explored
+###  🔍 Key Questions Explored
 
 - Which tourist places attract the highest annual visitors?
 
@@ -39,7 +39,7 @@ Dataset source: https://www.kaggle.com/datasets/shaistashahid/world-famous-place
 
 - Which types of attractions are most popular?
 
-📈 Key Insights
+###  📈 Key Insights
 
 - Most tourist places receive 5–15 million visitors annually, with a few major outliers.
 
@@ -53,7 +53,7 @@ Dataset source: https://www.kaggle.com/datasets/shaistashahid/world-famous-place
 
 - Urban landmarks and entertainment-focused attractions attract the highest footfall.
 
-🛠 Tools & Technologies
+###  🛠 Tools & Technologies
 
 Python
 
@@ -63,13 +63,13 @@ Matplotlib, Seaborn
 
 Jupyter Notebook
 
-📂 Project Structure
+###  📂 Project Structure
 ├── world_famous_places_2024.csv
 ├── World_Famous_Places_EDA.ipynb
 ├── world-famous-place-eda.pdf
 └── README.md
 
-🧠 Conclusion
+###  🧠 Conclusion
 
 Tourism popularity depends not only on historical value but also on accessibility, urban appeal, and experience offered.
 This project demonstrates data-driven storytelling through EDA and visual insights.
