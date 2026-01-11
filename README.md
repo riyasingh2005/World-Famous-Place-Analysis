@@ -53,10 +53,10 @@ https://www.kaggle.com/datasets/shaistashahid/world-famous-places
 ---
 
 ## 📂 Project Structure
-├── world_famous_places_2024.csv
-├── World_Famous_Places_EDA.ipynb
-├── world-famous-place-eda.pdf
-└── README.md
+├── world_famous_places_2024.csv <br>
+├── World_Famous_Places_EDA.ipynb  <br>
+├── world-famous-place-eda.pdf  <br>
+└── README.md  <br>
 
 ---
 ## 🧠 Conclusion
